@@ -1,4 +1,4 @@
-CREATE TABLE `recodb`.`Untitled`  (
+CREATE TABLE `recodb`.`User`  (
                                       `id` int NOT NULL,
                                       `create_at` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
                                       `updated_at` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
